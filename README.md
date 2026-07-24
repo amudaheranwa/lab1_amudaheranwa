@@ -1,5 +1,5 @@
 # lab1_amudaheranwa
-# Lab 1 – Grade Evaluator And Archiver
+
 
 This is my submission for Lab 1. It has two parts: a Python script that checks a students grades and works out their Grade Point Average and a bash script that archives the old grades file so you can start fresh with an one.
 
